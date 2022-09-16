@@ -1,2 +1,0 @@
-# .github
-What we do
