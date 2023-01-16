@@ -1,9 +1,10 @@
 ## Who we are and what are doing
 
-We, Integrvate; helps in unifying multiple payment gateways to your product backend seamlessly.
+We, Intervate; helps in unifying multiple payment gateways to your product backend seamlessly.
 
-## Payment Gateways
-- Paystack Python wrapper with Django and Django Rest Framework
+## Supported Payment Gateways
+- Paystack
+- Fluidcoins
 
 <!--
 
