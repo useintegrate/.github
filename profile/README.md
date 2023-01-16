@@ -1,6 +1,6 @@
 ## Who we are and what are doing
 
-We, Intervate; helps in unifying multiple payment gateways to your product backend seamlessly.
+We, Integrate; helps in unifying multiple payment gateways to your product backend seamlessly.
 
 ## Supported Payment Gateways
 - Paystack
