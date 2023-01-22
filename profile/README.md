@@ -1,18 +1,13 @@
-## Who we are and what are doing
+About Us
+------------
 
-We, Integrate; helps in unifying multiple payment gateways to your product backend seamlessly.
+We are a team of experienced entrepreneurs and engineers who are passonate about simplifying the payment process for businesses. 
 
-## Supported Payment Gateways
-- Paystack
-- Fluidcoins
+We understand the hassle of integrating multiple payment gateways into a product or business's backend and have created a solution to make the process seamless.
 
-<!--
+What We Do
+-----------
 
-**Here are some ideas to get you started:**
+We offer a service that unifies multiple payment gateways into a single integration for businesses. Our platform allows businesses to easily accept payments from various sources; such as naira, crypto, dollar, euro, pounds, and even airtime without having to navigate the complexities of integrating each payment gateway individually. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our service also offers features such as recurring payments, subscriptions, and fraud detection to ensure a secure and efficient payment process for businesses of all sizes. In short, we make accepting payments easy, so you can focus on building your business instead. 
