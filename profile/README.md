@@ -3,7 +3,7 @@ About Us
 
 We are a team of experienced entrepreneurs and engineers who are passonate about simplifying the payment process for businesses. 
 
-We understand the hassle of integrating multiple payment gateways into a product or business's backend and have created a solution to make the process seamless.
+We understand the hassle of integrating multiple payment gateways into a product or business's backend and are creating a solution to make the process seamless.
 
 What We Do
 -----------
